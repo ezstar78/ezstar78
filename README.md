@@ -1,67 +1,44 @@
-👨‍💻 SaTan Drops
+<h1 align="center">Hi 👋, I'm SaTan</h1>
+<h3 align="center">A passionate developer, UI/UX enthusiast, and script wizard 🧙‍♂️</h3>
 
-Reverse Engineer • PHP Developer & Pentester • API Request Handling • Bug Bounty Hunter
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
+- 💻 Currently working with **Python**, **C++**, and designing elegant **UI/UX** experiences  
+- 🌐 I craft beautiful and responsive **websites** from scratch  
+- 🎮 Writing game mods, tools, and **scripts for PC games and Windows** automation  
+- 🚀 Always experimenting, learning, and pushing boundaries  
+- 🔧 Custom tools, automation scripts, and dark-theme everything fan 😎  
 
+---
 
+### 🛠️ Tech Stack
 
-✨ About Me
+![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
-Hi — I’m SaTan Drops. I focus on reversing binaries, securing and building PHP backends, fuzzing and handling APIs, and hunting real-world vulnerabilities.
+---
 
-🔎 Reverse Engineering: binary analysis, decompilation & patch reasoning
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ezstar78&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ezstar78&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ezstar78&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🐘 PHP & Backend: REST APIs, JWT / OAuth flows, secure coding
+---
 
-🛡️ Pentesting & Bug Bounty: web app auditing, exploit validation, report writing
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shahram08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-⚙️ Tools & Automation: Ghidra, IDA, radare2, Burp Suite, Postman, Wireshark, Docker
+---
 
+### 🚀 Let's Build Something Awesome
 
-🚀 Skills
+> "Code is like poetry—it’s beautiful when it flows."  
 
-Reverse Engineering: static & dynamic analysis, decompilers, binary diffing
+📬 Want to connect?  
+Feel free to reach out on telegram  [@sjdstn](#) or drop a message!
 
-Web / Backend: PHP, MySQL, REST, GraphQL basics, auth flows
-
-Security Testing: Burp Suite, SQLmap, nmap, Nikto, automated scanning
-
-Scripting & Tools: Python, Bash, small Go utilities, automation for recon
-
-CI / DevOps: Docker, GitHub Actions, Codemagic / Bitrise (configs)
-
-
-💼 Featured Projects
-
-For each repo, add a short description and a link. If a repo is private or contains sensitive materials, consider publishing a sanitized sample or demo.
-
-awesome-reversing — A curated collection of reversing scripts & snippets (Ghidra, IDA, radare2). 🔧
-
-php-sec-audit — Lightweight scanner to detect insecure PHP configurations and common pitfalls. 🧰
-
-api-fuzz-suite — Simple API fuzzing framework with JWT/session support and automated report output. 🧪
-
-
-📚 Writeups & Disclosures
-
-I publish writeups and responsible disclosures when possible. Keep a writeups/ folder with step-by-step POC notes and sanitized artifacts (no sensitive data).
-
-
-📌 GitHub Tricks & Extras
-
-Pinned repos: Pin 4–6 repositories that showcase tools, writeups, and libraries.
-
-Actions: Add a GitHub Action to update README stats or deploy releases automatically. ⚙️
-
-Releases: Publish tagged releases with binaries or builds for CLI tools. 📦
-
-Security policy: Add SECURITY.md describing how to responsibly disclose bugs. 🛡️
-
-PGP key: Publish a PGP key for secure reports (optional). 🔐
-
-
-🏅 Achievements
-
-Bug bounty hall-of-fame / public disclosures — list what’s public. 🏆
-
-Certifications (optional): e.g., OSCP, eJPT — list if you have them. 🎓
